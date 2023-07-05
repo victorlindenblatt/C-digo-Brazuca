@@ -1,0 +1,12 @@
+x = int(input("escolha um número: "))
+
+print ("* 1: ", x * 1)
+print ("* 2: ", x * 2)
+print ("* 3: ", x * 3)
+print ("* 4: ", x * 4)
+print ("* 5: ", x * 5)
+print ("* 6: ", x * 6)
+print ("* 7: ", x * 7)
+print ("* 8: ", x * 8)
+print ("* 9: ", x * 9)
+print ("* 10: ", x *10)
