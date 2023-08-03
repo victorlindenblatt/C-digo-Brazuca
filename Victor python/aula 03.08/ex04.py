@@ -1,0 +1,2 @@
+#Crie uma classe chamada "Círculo" que possua o método __init__ para inicializar a propriedade "raio" do círculo.
+# Em seguida, crie um objeto da classe "Círculo" e calcule e imprima a área do círculo.

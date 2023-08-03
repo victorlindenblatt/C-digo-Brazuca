@@ -1,0 +1,2 @@
+#Crie uma classe chamada "Pessoa" que possua o método __init__ para inicializar as propriedades "nome", "idade" e "profissão" da pessoa
+#em seguida, crie um objeto da classe "Pessoa" e imprima todas as suas informações (nome, idade e profissão).
